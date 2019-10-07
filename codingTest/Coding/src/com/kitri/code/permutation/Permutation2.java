@@ -1,4 +1,4 @@
-package com.kitri.code.Permutation;
+package com.kitri.code.permutation;
 
 class Permutation2 {
     

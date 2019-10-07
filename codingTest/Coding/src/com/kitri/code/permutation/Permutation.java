@@ -1,4 +1,4 @@
-package com.kitri.code.Permutation;
+package com.kitri.code.permutation;
 
 import java.util.HashSet;
 import java.util.Set;
