@@ -1,7 +1,5 @@
 package com.kitri.code.baseballgame;
 
-import java.util.ArrayList;
-
 public class Baseball {
 
 	public static boolean[] checkArray(int[][] baseballGame) {

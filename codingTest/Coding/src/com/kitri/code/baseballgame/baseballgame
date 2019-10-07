@@ -1,0 +1,27 @@
+	
+	//다수의 게임 행렬을 성분별로 분해
+	public static boolean[] checkArray(int[][] baseballGame) {
+	}
+	
+	//분해한 게임별로 스트라이크와 볼의 횟수가 임의의 수와 비교했을 때 타당한지 판별 만약 맞다면 임의로 생성한 수는 정답의 후보가 됨
+	public static boolean checkGame(int game, int tmp, int strike, int ball) {
+	}
+	
+	//정답과 입력한 수간의 스트라이크의 수와 임의의 수와 입력한 수간의 스트라이크 수의 비교
+	public static boolean countStrike(int game, int tmp, int strike) {
+	}
+	
+	//정답과 입력한 수간의 볼의 수와 임의의 수와 입력한 수간의 볼 수의 비교
+	public static boolean countBall(int game, int tmp, int ball) {
+	}
+	
+	//순열을 이용한 임의의 수 생성	
+	public static void checkAll(int[] arr, int depth, int n, int r) {
+	}
+	
+	//순열에 필요한 성분 변경	
+	public static void swap(int[] arr, int i, int j) {
+	}
+	
+
+
