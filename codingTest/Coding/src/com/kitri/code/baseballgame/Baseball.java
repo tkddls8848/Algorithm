@@ -1,9 +1,11 @@
 package com.kitri.code.baseballgame;
 
+import java.util.HashMap;
+
 public class Baseball {
 
 	public static boolean[] checkArray(int[][] baseballGame) {
-		
+
 		int[] game = new int[baseballGame.length];
 		int[] strike = new int[baseballGame.length];
 		int[] ball = new int[baseballGame.length];

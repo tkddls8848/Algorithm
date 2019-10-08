@@ -1,8 +1,5 @@
 package com.kitri.code.three;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-
 public class ThreeSixNine {
 
 	
