@@ -30,20 +30,17 @@ public class Playlist {
 		
 		for(int i = 0 ; i < genre.length ; i++) {
 			HashMap<ArrayList<Integer>, Integer> musicMap = new HashMap<ArrayList<Integer>, Integer>();
-			for(int j = 0 ; j < genreList.size(); j++) {
-				if(genreList.get(j)!=genre[i]) {
-					musicMap[0] = i;
-					musicMap[1] = plays[i];
-					totMap.put(genre[i], musicMap);					
-				} else if(genreList.get(j)==genre[i]) {
-					musicMap[0] = i;
-					musicMap[1] = plays[i];
-					totMap.put(genre[i], musicMap);					
-				} 
+			ArrayList<Integer> index = new ArrayList<Integer>();
+			index.add(0);
+			musicMap.put(, plays[i]);
+			for(int j = i ; j < genre.length; j++) {
+				if() {
+					
+				}
 			}
-			System.out.println(genre[i]+" : "+ musicMap[0] +" and "+ musicMap[1]);
-			System.out.println(totMap.get(genre[i])[0]);
-			System.out.println(totMap.get(genre[i])[1]);
+//			System.out.println(genre[i]+" : "+ musicMap[0] +" and "+ musicMap[1]);
+//			System.out.println(totMap.get(genre[i])[0]);
+//			System.out.println(totMap.get(genre[i])[1]);
 		}
 	}
 	
