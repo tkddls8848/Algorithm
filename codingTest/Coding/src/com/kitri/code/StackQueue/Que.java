@@ -1,12 +1,11 @@
-package com.kitri.code;
+package com.kitri.code.StackQueue;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Queue;
-import java.util.Stack;
 
-class Solution {
-	
+public class Que {
+
 	public static ArrayList<Integer> judge(LinkedList<Integer> que, int time) {
 		
 		
@@ -56,5 +55,5 @@ class Solution {
 		}
 
 	}
-
+	
 }
