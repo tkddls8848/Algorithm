@@ -1,8 +1,8 @@
-package com.kitri.WinterCoding;
+package com.kitri.SummerCoding;
 
 import java.util.*;
 
-public class WinterCoding4 {
+public class SummerCoding4 {
 
 	public static int solution(int[] d, int budget) {
 		int answer = 0;

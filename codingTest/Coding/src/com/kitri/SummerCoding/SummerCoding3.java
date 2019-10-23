@@ -1,8 +1,8 @@
-package com.kitri.WinterCoding;
+package com.kitri.SummerCoding;
 
 import java.util.*;
 
-public class WinterCoding3 {
+public class SummerCoding3 {
 
 	public static int destruction(int[][] land, int P, int height) {
 		int desCost = 0;

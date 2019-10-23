@@ -1,8 +1,8 @@
-package com.kitri.WinterCoding;
+package com.kitri.SummerCoding;
 
 import java.util.*;
 
-public class WinterCoding2 {
+public class SummerCoding2 {
 	
 	public static int repeatWord(String[] words) {
 		
