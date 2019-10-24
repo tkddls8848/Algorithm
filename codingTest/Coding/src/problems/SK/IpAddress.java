@@ -1,4 +1,4 @@
-package com.kitri.sk;
+package problems.SK;
 
 import java.util.*;
 

@@ -1,8 +1,8 @@
-package com.kitri.WinterCoding;
+package problems.SummerCoding2018;
 
 import java.util.*;
 
-public class WinterCoding {
+public class SummerCoding {
     public static int solution(int[] A, int[] B) {
 
     	int answer = 0;

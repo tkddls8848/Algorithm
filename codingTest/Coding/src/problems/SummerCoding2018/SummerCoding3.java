@@ -1,4 +1,4 @@
-package com.kitri.SummerCoding;
+package problems.SummerCoding2018;
 
 import java.util.*;
 
