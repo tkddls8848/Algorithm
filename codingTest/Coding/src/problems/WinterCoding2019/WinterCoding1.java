@@ -1,8 +1,8 @@
-package com.kitri.code;
+package problems.WinterCoding2019;
 
 import java.util.*;
 
-class Solution {
+public class WinterCoding1 {
     
     public static long gcp(int w,int h){
         
