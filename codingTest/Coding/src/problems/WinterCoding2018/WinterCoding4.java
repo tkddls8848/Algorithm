@@ -30,7 +30,7 @@ public class WinterCoding4 {
     public static int solution(String skill, String[] skill_trees) {
         int answer = 0;
         
-        answer = check(skill, skill_trees[0]);
+        answer = check(skill, skill_trees[1]);
         System.out.println(answer);
         return answer;
     }
